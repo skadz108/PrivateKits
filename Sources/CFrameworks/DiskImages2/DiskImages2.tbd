@@ -1,7 +1,7 @@
 --- !tapi-tbd
 tbd-version:     4
 targets:         [ x86_64-macos, arm64-macos, arm64e-macos, armv7-ios, armv7s-ios, arm64-ios, arm64e-ios ]
-install-name:    '/System/Library/PrivateFrameworks/DiskImages2.framework/Versions/A/DiskImages2'
+install-name:    '/System/Library/PrivateFrameworks/DiskImages2.framework/DiskImages2'
 current-version: 272
 exports:
   - targets:         [ x86_64-macos, arm64-macos, arm64e-macos, armv7-ios, armv7s-ios, arm64-ios, arm64e-ios ]
